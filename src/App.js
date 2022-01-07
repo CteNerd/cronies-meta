@@ -2,7 +2,7 @@ import React from "react";
 import logo from "./cronies-logo.svg";
 import Box from "./components/Box"
 import "./App.css";
-import { Canvas } from "@react-three/fiber";
+import { Canvas } from "react-three-fiber";
 
 function App() {
   return (
